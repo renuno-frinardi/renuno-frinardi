@@ -9,7 +9,5 @@ Informatics engineering student from Bandung Institute of Technology, with inter
 ## Languages
 
 <div align="center">
-  <img src="">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renuno-frinardi&theme=blue-green&show_icons=true&hide_border=false&layout=compact">
 </div>
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=renuno-frinardi&theme=blue-green&show_icons=true&hide_border=false&layout=compact
